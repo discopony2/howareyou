@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## о привет
 
 You can use the [editor on GitHub](https://github.com/discopony2/howareyou/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
