@@ -21,8 +21,6 @@
 кул стори ? кул стори.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 не нарушая традиций, палюсь в монитор уже неприличное количество времени и вижу только "а вот и ты".
 
 и действительно, вот же ты, так что позволь мне наградить тебя тем, что у меня язык не повернется сказать при встрече.
@@ -31,9 +29,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 самую мякотку правда ты уже знаешь, но и без новой информации (я ни с кем этим напрямую не делился, и даже чтобы тебе об этом сказать выстроил систему защиты в виде арг ахах) я тебя не оставлю.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/discopony2/howareyou/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
 
 приди, увидь и разгадай:
 iwnajitylttlqjityhtrxqfmiwnajxqfxmktqijwxxqfxm1W1rSH57G9FIMmdVl3fhMAHwtX6ppyZI4
