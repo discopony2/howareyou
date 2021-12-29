@@ -34,4 +34,5 @@
 
 
 приди, увидь и разгадай:
-iwnajitylttlqjityhtrxqfmiwnajxqfxmktqijwxxqfxm1W1rSH57G9FIMmdVl3fhMAHwtX6ppyZI4
+	marenmxcpxxpunmxclxvbujbqmarenbujbqoxumnabbujbq1A1vWL57K9JMQqhZp3jlQELaxB6ttcDM4
+p.s.: шаг=шаг*шаг*шаг, дот=точка, слэш=черта
