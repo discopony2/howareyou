@@ -45,10 +45,9 @@
 
 
 приди, увидь и разгадай:
-	marenmxcpxxpunmxclxvbujbqmarenbujbqoxumnabbujbq1A1vWL57K9JMQqhZp3jlQELaxB6ttcDM4
+	тут ничего и никогда не было c;
 
 
 
 p.s.: шаг = др лехи + др эдика = др артема + др влада, где др - *ДЕНЬ* рождения
 
-дот = точка, слэш = черта
